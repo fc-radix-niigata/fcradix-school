@@ -149,7 +149,7 @@ function renderCalendar(year, month) {
       const tdClass = [isOther?'other':'', isSun?'sun':'', isSat?'sat':''].filter(Boolean).join(' ');
       const numSpan = `<span class="cal-day-num${isToday?' today':''}">${displayDay}</span>`;
       const evtHtml = (scheduleData[dateKey] || [])
-        .map(e => `<span class="cal-event ${e.cls}">${e.label} ${e.time}</span>`)
+        .map(e => `<span class="cal-event ${e.cls}">${e.label}<span class="cal-event-time"> ${e.time}</span></span>`)
         .join('');
 
       html += `<td class="${tdClass}">${numSpan}${evtHtml}</td>`;
