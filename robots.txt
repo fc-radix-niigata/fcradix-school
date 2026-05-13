@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fcradix-niigata.com/sitemap.xml
+Sitemap: https://fcradix-school.netlify.app/sitemap.xml

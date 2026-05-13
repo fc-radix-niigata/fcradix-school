@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fcradix-niigata.com/</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://fcradix-niigata.com/#news</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/#news</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fcradix-niigata.com/#school</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/#school</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fcradix-niigata.com/#match</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/#match</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://fcradix-niigata.com/#staff</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/#staff</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://fcradix-niigata.com/#schedule</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/#schedule</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fcradix-niigata.com/#access</loc>
-    <lastmod>2026-05-12</lastmod>
+    <loc>https://fcradix-school.netlify.app/#access</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
