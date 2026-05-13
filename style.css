@@ -966,7 +966,7 @@ address { font-style: normal; }
   /* カレンダー */
   .cal-table tbody td { height: 56px; padding: 3px; }
   .cal-day-num { font-size: .7rem; }
-  .cal-event { font-size: .65rem; padding: 2px 4px; white-space: normal; }
+  .cal-event { font-size: .65rem; padding: 2px 4px; white-space: normal; text-align: center; }
   .cal-event-time { display: none; }
   .cal-month-label { font-size: 1.1rem; min-width: 140px; }
   .cal-legend { gap: 12px; }
