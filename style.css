@@ -772,6 +772,7 @@ address { font-style: normal; }
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-align: center;
 }
 .cal-event.u12 { background: rgba(192,57,43,.12); color: var(--red); }
 .cal-event.u10 { background: rgba(26,111,181,.12); color: #1a6fb5; }
