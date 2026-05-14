@@ -646,6 +646,16 @@ address { font-style: normal; }
   line-height: 1.5;
 }
 .staff-detail li:last-child { border-bottom: none; }
+.staff-detail li.staff-section-label {
+  font-size: .7rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: .08em;
+  border-bottom: none;
+  margin-top: 8px;
+  padding-bottom: 2px;
+}
+.staff-detail li.staff-section-label:first-child { margin-top: 0; }
 .staff-license {
   font-size: .75rem;
   color: rgba(255,255,255,.4);
